@@ -1,7 +1,7 @@
 # AI-Powered Detection of Phishing URLs
  
 ## Project Overview
-
+ 
 This project focuses on detecting phishing websites using machine learning techniques. The dataset comprises 11,054 instances with 32 features related to website characteristics, including HTTPS presence, subdomains, and various URL attributes. The goal was to build a model capable of accurately classifying websites as either phishing or legitimate.
 
 ## Key Tasks
